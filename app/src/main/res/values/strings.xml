@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="add_city">Add city</string>
+    <string name="add_city_title">Input city name</string>
+    <string name="Ok">OK</string>
+    <string name="city_weather_text">Weather in %s</string>
+</resources>
